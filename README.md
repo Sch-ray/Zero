@@ -7,7 +7,7 @@
 > 再次声明：设备仅用作专业人员的合法技术学习和合法分析测试（你最好知道你自己在干什么）。
 
 [Shell_Modell](./Shell_Model)
-目前开放了外壳模型文件，现在你可以为自己打印更漂亮:star2:、更具个人特色:sunglasses:的外壳！
+目前开放了外壳模型文件，现在你可以为自己打印更漂亮⭐更具个人特色😎的外壳!
 
 这是我的Youtube频道
 [Youtube](https://www.youtube.com/channel/UCHENkZK1oac_hoAVk4aAufA)
