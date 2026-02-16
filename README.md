@@ -1,15 +1,16 @@
-欢迎来到这里，感谢大家支持，这是Zero项目的公开目录，会陆续开源出一些文件。
+Welcome here, and thank you all for your support. This is the public directory of the Zero project, where some files will be gradually open-sourced.
 
 > [!IMPORTANT]
-> 声明：如果你喜欢FlipperZero项目，并且拥有足够的经济能力，可以通过官方渠道购买原版设备，构建如此强大的社区并不容易，感谢他们开源了大量资料。我的设备并不是为了伪造或者盗版，而是针对性进行了一些修改，且使用了全新的外观用于区分，与原版设备的外壳完全不兼容。目的是制作更廉价的设备，使项目得到更好的发展。
+> Statement: If you like the FlipperZero project and have sufficient financial ability, please purchase the original device through official channels. Building such a strong community is not easy, and we appreciate that they have open-sourced a large amount of materials. My device is not intended for counterfeiting or piracy. It includes targeted modifications and uses a completely new exterior design for clear distinction. The enclosure is fully incompatible with the original device. The purpose is to create a more affordable device and promote better development of the project.
 
 > [!IMPORTANT]
-> 再次声明：设备仅用作专业人员的合法技术学习和合法分析测试（你最好知道你自己在干什么）。
+> Additional statement: The device is intended only for legal technical learning and lawful analysis and testing by professionals (you should know what you are doing).
 
 [Shell_Modell](./Shell_Model)
-目前开放了外壳模型文件，现在你可以为自己打印更漂亮⭐更具个人特色😎的外壳!
+The shell model files are now available. You can print a more attractive ⭐ and personalized 😎 enclosure for yourself!
 
-这是我的Youtube频道
+This is my YouTube channel
 [Youtube](https://www.youtube.com/channel/UCHENkZK1oac_hoAVk4aAufA)
-这是我的BiliBili频道
+
+This is my BiliBili channel
 [BiliBili](https://space.bilibili.com/150167463)

@@ -1,99 +1,108 @@
-欢迎来到这里，感谢大家支持，如果你有一台3D打印机，现在你可以为自己打印更漂亮⭐更具个人特色😎的外壳!并且如果你有足够的时间，可以选择更精细的打印精度。
+Welcome here, and thank you for your support. If you have a 3D printer, you can now print a more attractive ⭐ and personalized 😎 shell for yourself! If you have enough time, you may also choose a finer print resolution.
 
-我在打印时使用了PLA和PETG材料，在这两种材料下，如果打印机设置正确的话，打印效果还算不错。
+I used PLA and PETG materials for printing. With proper printer settings, the results are fairly good with both materials.
 
-本目录包含各个版本的外壳模型，并且根据版本进行排序（数字排序，越大越新）。
+This directory contains shell models of different versions, sorted by version number (numerical order, larger numbers indicate newer versions).
 
-注意，较老版本的模型将不再更新或者修改。
+Please note that older versions will no longer be updated or modified.
 
 > [!WARNING]
-> 警告，拆卸壳体有可能损坏设备，你需要自己承担后果。
+> Warning: Disassembling the shell may damage the device. You are responsible for any consequences.
 
 > [!IMPORTANT]
-> 声明：如果你喜欢FlipperZero项目，并且拥有足够的经济能力，可以通过官方渠道购买原版设备，构建如此强大的社区并不容易，感谢他们开源了大量资料。我的设备并不是为了伪造或者盗版，而是针对性进行了一些修改，且使用了全新的外观用于区分，与原版设备的外壳完全不兼容。目的是制作更廉价的设备，使项目得到更好的发展。
+> Statement: If you like the FlipperZero project and have sufficient financial ability, please purchase the original device through official channels. Building such a strong community is not easy, and we appreciate that they have open-sourced a large amount of materials. My device is not intended for counterfeiting or piracy. It includes targeted modifications and uses a completely new exterior design for clear distinction. The enclosure is fully incompatible with the original device. The purpose is to create a more affordable device and promote better development of the project.
 
 > [!IMPORTANT]
-> 再次声明：设备仅用作专业人员的合法技术学习和合法分析测试（你最好知道你自己在干什么）。
+> Additional statement: The device is intended only for legal technical learning and lawful analysis and testing by professionals (you should know what you are doing).
 
-### 开始打印自己的外壳前，你需要知道：
-1、由于成本的压缩，以及项目开始时间不长，结构上并不是那么完美，拆装有风险，请仔细阅读说明，并且确保你有一个电烙铁和灵活的双手。
-2、更换和安装外壳需要一定的动手能力，开始之前确定你可以搞定，不要弄坏你的设备，因为拆卸导致的后果，由你自己承担。
-3、确保3D打印机的打印板干净，富有粘性，因为打印正面的"R"和"O"的时候，对打印板有较高的要求（我最初打印的时候因为打印板不够干净，粘性较差，失败了很多次）。
-4、请正确选择自己的外壳版本，需要注意每个底壳并不兼容，建议使用单个目录下的所有文件，不要混用。
-5、做好心理准备，内部由于是手工组装焊接的，所以会有焊接的痕迹~（还要什么自行车:roll_eyes:~）
+### Before printing your own shell, you need to know:
 
-### 如何分辨版本？观察底壳的花纹图案!
+1. Due to cost constraints and the early stage of the project, the structure is not perfect. There are risks during disassembly and assembly. Please read the instructions carefully and make sure you have a soldering iron and steady hands.
+2. Replacing and installing the shell requires hands-on ability. Make sure you can handle it before starting. Do not damage your device. You are responsible for any consequences caused by disassembly.
+3. Ensure the print bed is clean and has good adhesion. When printing the front letters "R" and "O", the print bed quality is critical (when I first printed, I failed many times because the bed was not clean enough and adhesion was poor).
+4. Choose the correct shell version. Note that each bottom shell is not compatible with others. It is recommended to use all files within the same directory and not mix different versions.
+5. Be mentally prepared. Since the internal assembly is hand-soldered, there will be visible soldering marks~ (what more do you expect? :roll_eyes:~)
 
-**1、如果看起来是这样的则表示是大型RFID线圈，请选择[1_Big_Coil](./1_Big_Coil)**<sub>*不再维护*</sub>
-<sub>*这个目录包括4个零件：顶部壳体、底部壳体、按键、导光柱。*</sub>
-![Bottom_image_1](./1_Big_Coil/image/Bottom_image_1.png)
+### How to identify the version? Observe the pattern on the bottom shell!
 
-> [!TIP]
-> LED_Light_Pipe.step是设备正面的导光柱，需要使用透明耗材进行打印，如果没有可以空置，或者填充一些半透明的胶水。或者可以从现有的壳体上拆下来继续使用（详见文末）。
-
-> [!TIP]
-> 另外还需要一个红外透光片，理论上最好使用专用的红外滤波片（940nm），或者一些更容易获取的透明塑料薄片，尺寸是18.5mm*8mm，厚度约0.2~0.3mm。也可以从现有的壳体上拆下来继续使用（详见文末）。
-
-**2、大型RFDI线圈的外壳还包括透明版本，请选择[2_Big_Coil_Transparent](./2_Big_Coil_Transparent)**<sub>*不再维护*</sub>
-为了简化零件数量，透明版本对“红外透光区域”和“导光柱”进行了优化，不需要额外的零件，而是靠外壳本身透光，所以打印和装配更加简单
-<sub>*这个目录包括3个零件：顶部壳体、底部壳体、按键。*</sub>
-![Side_image_1](./2_Big_Coil_Transparent/image/Side_image_1.png)
-![Side_image_1](./2_Big_Coil_Transparent/image/Side_image_2.png)
-
-**3、如果看起来是这样的则表示是小型线圈，请选择[3_Small_Coil](./3_Small_Coil)**
-![Bottom_image_1](./3_Small_Coil/image/Bottom_image_1.png)
-<sub>*这个目录包括4个零件：顶部壳体、底部壳体、按键、导光柱。*</sub>
-
-<ins>4、小型线圈版本的透明外壳还没有完全达到期望效果，暂不上传。</ins>
-
-### 拆卸及组装说明：
-
-目前来说，虽然各个版本的外壳、以及内部零件有所不同，但是拆装步骤基本相同。
+**1. If it looks like this, it is the large RFID coil version. Please choose [1_Big_Coil](./1_Big_Coil)**
+<sub>*No longer maintained*</sub>
+<sub>*This directory includes 4 parts: top shell, bottom shell, buttons, and light pipe.*</sub>
+![Bottom\_image\_1](./1_Big_Coil/image/Bottom_image_1.png)
 
 > [!TIP]
-> 拆卸之前，你可以触摸附近的接地金属，或者使用静电手环，避免静电损坏电路板。
-
-**1、拆掉顶壳**
-观察设备侧面，可以看到一条缝隙，使用刀片或者指甲小心翘开。
-![Step_1](./Step/Step_1.jpg)
-然后你会看到设备的内部电路板
-![Step_2](./Step/Step_2.jpg)
-
-**2、断开连接线**
-
-长按返回键，关闭设备电源。
-然后使用电烙铁和镊子拆卸NFC线圈。镊子夹紧电线，向下使力，同时加热焊锡。
+> LED_Light_Pipe.step is the front light pipe of the device and should be printed with transparent filament. If unavailable, you may leave it empty or fill it with semi-transparent glue. Alternatively, you can remove it from the existing shell and reuse it (see the end of this document).
 
 > [!TIP]
-> 即便关机了，但是电路板很多位置依然带电，务必小心。另外尽量确保你的电烙铁接地良好。
+> You will also need an infrared transparent filter. Ideally, use a dedicated infrared filter (940nm), or an easily obtainable transparent plastic sheet. The size is 18.5mm × 8mm, with a thickness of about 0.2–0.3mm. You may also reuse the one from the existing shell (see the end of this document).
 
-![Step_4](./Step/Step_4.jpg)
+**2. The large RFID coil also has a transparent version. Please choose [2_Big_Coil_Transparent](./2_Big_Coil_Transparent)**
+<sub>*No longer maintained*</sub> 
+<sub>*This directory includes 3 parts: top shell, bottom shell, and buttons.*</sub>
+To simplify the number of parts, the transparent version optimizes the “infrared window” and “light pipe” design. No additional parts are required; the shell itself allows light transmission, making printing and assembly easier.
+![Side\_image\_1](./2_Big_Coil_Transparent/image/Side_image_1.png)
+![Side\_image\_1](./2_Big_Coil_Transparent/image/Side_image_2.png)
 
-**3、拿出主板**
-注意！主板背后还有两处连接线，小心取出。这是取出之后的样子：
-![Step_5](./Step/Step_5.jpg)
-左侧是RFID线圈连接线，右侧是电池连接线。首先拔出右侧的电池连接插头，然后使用电烙铁拆除左侧的RFID连接线。
+**3. If it looks like this, it is the small RFID coil version. Please choose [3_Small_Coil](./3_Small_Coil)** 
+<sub>*This directory includes 4 parts: top shell, bottom shell, buttons, and light pipe.*</sub>
+![Bottom\_image\_1](./3_Small_Coil/image/Bottom_image_1.png)
+Except for modifications to the bottom shell coil, the rest is basically the same as the first version.
 
-**4、拆掉电池**
+**4. The transparent version for the small RFID coil, please choose [4_Small_Coli_Transparent](./4_Small_Coli_Transparent)** 
+<sub>*This directory includes 3 parts: top shell, bottom shell, and buttons.*</sub>
+![Step\_8](./Step/Step_8.jpg)
+Based on the previous version, the thickness of the top and bottom surfaces has been reduced. The keycap installation method has also been changed. The keycaps can now be directly pressed onto the buttons without blocking other areas, achieving better transparency.
+However, if you want even better transparency, it is recommended to use the third version model with resin printing and perform additional post-processing.
+
+### Disassembly and assembly instructions:
+
+Although the shells and internal parts vary between versions, the disassembly and assembly steps are basically the same.
+
+> [!TIP]
+> Before disassembly, touch nearby grounded metal or use an anti-static wrist strap to avoid static damage to the circuit board.
+
+**1. Remove the top shell**
+Observe the side of the device. You will see a gap. Use a blade or your fingernail to carefully pry it open.
+![Step\_1](./Step/Step_1.jpg)
+Then you will see the internal circuit board.
+![Step\_2](./Step/Step_2.jpg)
+
+**2. Disconnect the wires**
+
+Press and hold the back button to power off the device.
+Then use a soldering iron and tweezers to remove the NFC coil. Clamp the wire with tweezers, apply downward force, and heat the solder at the same time.
+
+> [!TIP]
+> Even after powering off, many parts of the board may still carry current. Be extremely careful. Also ensure your soldering iron is properly grounded.
+
+![Step\_4](./Step/Step_4.jpg)
+
+**3. Remove the main board**
+Attention! There are two additional wires connected behind the main board. Remove it carefully. This is what it looks like after removal:
+![Step\_5](./Step/Step_5.jpg)
+On the left is the RFID coil wire, and on the right is the battery connector. First unplug the battery connector on the right, then use a soldering iron to remove the RFID wire on the left.
+
+**4. Remove the battery**
+
 > [!WARNING]
-> 这一步风险较高，由于胶水粘连，可能会损坏电池，甚至导致短路等风险，后果自负！
+> This step carries higher risk. Due to adhesive bonding, the battery may be damaged, potentially causing short circuits or other hazards. Proceed at your own risk!
 
-![Step_6](./Step/Step_6.jpg)
-电池与底部的隔磁贴纸使用3M双面胶连接，隔磁贴纸又与壳体使用3M双面胶连接。
-使用镊子尾部或者撬片，从侧面翘起电池，或者使用镊子挑起隔磁贴纸的一角，尝试直接将贴纸从壳体上剥离下来。如果非常难拆卸，可以尝试把设备短暂放到冰箱，可能会使胶水变得脆弱一些，或者使用热吹风加热壳体底部，可能会使胶水软化。
+![Step\_6](./Step/Step_6.jpg)
+The battery is attached to the magnetic shielding sticker with 3M double-sided tape, and the shielding sticker is attached to the shell with 3M double-sided tape.
+Use the back end of tweezers or a pry tool to lift the battery from the side, or use tweezers to lift a corner of the shielding sticker and try to peel it directly from the shell. If it is very difficult to remove, you can briefly place the device in a refrigerator to make the adhesive more brittle, or use a heat gun to warm the bottom of the shell to soften the adhesive.
 
 > [!WARNING]
-> 如果确定壳体不再使用，也可以先暴力破坏壳体，再从侧面小心拆卸电池。
+> If you are certain the shell will no longer be used, you may first break the shell and then carefully remove the battery from the side.
 
-**5、取出线圈**
-如果你完成了上述步骤的话，这一步就只是拿出里面的线圈。恭喜你拆卸完成。现在，把这些步骤再反向重复一遍，装回到新的壳体里。
+**5. Remove the coil**
+If you have completed the above steps, this step simply involves taking out the internal coil. Congratulations, disassembly is complete. Now repeat these steps in reverse order to assemble everything into the new shell.
 
-### 小零件的拆卸及组装说明：
+### Small parts disassembly and assembly instructions:
 
-**附1、导光柱拆装**
-使用镊子从正面将导光柱用力按进去。
-![Step_3](./Step/Step_3.jpg)
+**Appendix 1: Light pipe removal and installation**
+Use tweezers to firmly press the light pipe inward from the front.
+![Step\_3](./Step/Step_3.jpg)
 
-**附2、透光片拆装**
-使用镊子将透光片轻松取出，从图片里可以看到，它就是这样塞进去的，然后通过上壳体将它按压在这个槽里。
-![Step_7](./Step/Step_7.jpg)
+**Appendix 2: Infrared filter removal and installation**
+Use tweezers to easily remove the filter. As shown in the image, it is inserted in this way and then pressed into the slot by the top shell.
+![Step\_7](./Step/Step_7.jpg)
