@@ -95,7 +95,14 @@ Use the back end of tweezers or a pry tool to lift the battery from the side, or
 > If you are certain the shell will no longer be used, you may first break the shell and then carefully remove the battery from the side.
 
 **5. Remove the coil**
-If you have completed the above steps, this step simply involves taking out the internal coil. Congratulations, disassembly is complete. Now repeat these steps in reverse order to assemble everything into the new shell.
+If you've completed the above steps, this step simply involves removing the coil. Congratulations, you're almost done disassembling!
+
+Now, repeat these steps in reverse order and reassemble it into the new housing.
+
+Note that I tried various methods to secure the coil, some of which used UV-cured adhesive. While very strong and reliable😓, this method can be difficult to disassemble; you might have to break the housing to carefully pry the coil off.
+
+>[!TIP]
+>During disassembly, be careful not to scratch the insulating varnish on the coil's surface, as this could cause abnormal short circuits between coils, affecting read/write performance.
 
 ### Small parts disassembly and assembly instructions:
 
