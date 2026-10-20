@@ -80,6 +80,13 @@ Follow the **Disassembly and Assembly Instructions** to remove the PCB, then rep
 
 ![ant1](./Step/ant1.jpg)
 
+**5. For the multi-color printing version, please select [6_Colorful](./6_Colorful)**
+
+<sub>*This directory contains 2 parts: the top housing and the bottom housing. If you also need to print the buttons or the light-guiding pillars, you can find them in the directory for the previous version.*</sub>
+![print_1.jpg](./Step/print_1.jpg)
+![print_2.jpg](./Step/print_2.jpg)
+
+In this version, the texture depth of the model has been adjusted to facilitate coloring within your slicing software. The folder includes a sample 3MF file, which you can print as-is or modify to suit your specific printer.
 
 ### Disassembly and assembly instructions:
 
